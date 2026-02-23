@@ -1,0 +1,6 @@
+android_app_import {
+    name: "KernelSUManager",
+    apk: "KernelSU.apk",
+    privileged: true,
+    certificate: "platform",
+}
